@@ -70,15 +70,14 @@
 
 ###  Featured Projects
 
-### 📌 Featured Projects
 
-- 🎬 **[Netflix Data Engineering Pipeline (Azure Databricks)](https://github.com/ismail-chahboune/netflix-azure-databricks-pipeline)**
+-  **[Netflix Data Engineering Pipeline (Azure Databricks)](https://github.com/ismail-chahboune/netflix-azure-databricks-pipeline)**
   End-to-end pipeline with medallion architecture (Bronze/Silver/Gold) using Azure Data Factory, Databricks Auto Loader, PySpark, Delta Lake, Delta Live Tables & Unity Catalog.
 
-- 🧱 **[Concrete Crack Classification](https://github.com/ismail-chahboune/concrete-crack-classification)**
+-  **[Concrete Crack Classification](https://github.com/ismail-chahboune/concrete-crack-classification)**
   Binary image classification comparing a custom CNN vs. fine-tuned EfficientNetB0, with Grad-CAM explainability on 40K+ concrete surface images.
 
-- 🔢 **[MNIST Digit Classifier](https://github.com/ismail-chahboune/MNIST-Digit-Classfier)**
+-  **[MNIST Digit Classifier](https://github.com/ismail-chahboune/MNIST-Digit-Classfier)**
   Convolutional neural network for handwritten digit recognition.
 ---
 
