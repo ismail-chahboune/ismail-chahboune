@@ -81,9 +81,13 @@
   Convolutional neural network for handwritten digit recognition.
 ---
 ### GitHub Stats
-<p align="center"> <img src="./profile/stats.svg" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-chahboune&hide_border=true" width="48%" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-chahboune&hide_border=true" width="48%" />
+</p>
 
-<p align="center"> <img src="./profile/top-langs.svg" width="48%" /> </p>
+<p align="center">
+  <img src="./profile/top-langs.svg" width="48%" />
+</p>
 
 ###  What I Frequently Work With
 <p align="center">
