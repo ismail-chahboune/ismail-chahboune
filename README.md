@@ -95,7 +95,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ismail-chahboune&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
----
 
 ---
 ###  Contribution Snake
