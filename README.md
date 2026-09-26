@@ -83,19 +83,17 @@
 
 ###  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismail-chahboune&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=ismail-chahboune&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ismail-chahboune&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-chahboune&layout=compact&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-chahboune&layout=compact&hide_border=true&theme=default&cache_seconds=86400" />
 </p>
 
 ###  GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ismail-chahboune&theme=flat&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 ###  Contribution Snake
 <p align="center">
