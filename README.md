@@ -21,15 +21,15 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Building end-to-end pipelines and ML/DL models — from raw data to production
-- 🌱 Currently sharpening skills in **Cloud (AWS, Azure), Big Data (Hadoop, Kafka) & MLOps**
-- 💬 Ask me about Python, SQL, Deep Learning, or Data Engineering pipelines
-- 📫 Reach me at **ismailchahboune2002@gmail.com**
+###  About Me
+-  Building end-to-end pipelines and ML/DL models — from raw data to production
+-  Currently sharpening skills in **Cloud (AWS, Azure), Big Data (Hadoop, Kafka) & MLOps**
+-  Ask me about Python, SQL, Deep Learning, or Data Engineering pipelines
+-  Reach me at **ismailchahboune2002@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Data Manipulation**
 <p align="left">
@@ -67,7 +67,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 <p align="center">
   <a href="https://github.com/ismail-chahboune/Pneumoniaclassifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ismail-chahboune&repo=Pneumoniaclassifier&theme=default&hide_border=true" />
@@ -79,7 +79,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismail-chahboune&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismail-chahboune&hide_border=true" width="48%"/>
@@ -89,14 +89,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-chahboune&layout=compact&hide_border=true&theme=default" />
 </p>
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ismail-chahboune&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/ismail-chahboune/ismail-chahboune/output/github-contribution-grid-snake.svg" />
 </p>
