@@ -58,7 +58,7 @@
 
 **Cloud & DevOps**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker" height="40"/>
 </p>
 
 **Web / Backend**
