@@ -12,7 +12,6 @@ jobs:
 generate-stats:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: Checkout repository
     uses: actions/checkout@v4
@@ -20,25 +19,22 @@ steps:
   - name: Create profile directory
     run: mkdir -p profile
 
-  - name: Download GitHub Stats
+  - name: Generate GitHub Stats
     run: |
-      curl -L "https://github-readme-stats.vercel.app/api?username=ismail-chahboune&show_icons=true&theme=default&hide_border=true&count_private=true" \
+      curl -L \
+      "https://github-readme-stats.vercel.app/api?username=ismail-chahboune&show_icons=true&theme=default&hide_border=true&count_private=true" \
       -o profile/stats.svg
 
-  - name: Download Top Languages
+  - name: Generate Top Languages
     run: |
-      curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-chahboune&layout=compact&hide_border=true&theme=default" \
+      curl -L \
+      "https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-chahboune&layout=compact&hide_border=true&theme=default" \
       -o profile/top-langs.svg
 
-  - name: Check generated files
+  - name: Commit statistics
     run: |
-      ls -lh profile/
-      file profile/stats.svg
-      file profile/top-langs.svg
-
-  - name: Commit generated files
-    uses: EndBug/add-and-commit@v9
-    with:
-      message: "Add GitHub stats images"
-      add: "profile/stats.svg profile/top-langs.svg"
-```
+      git config --local user.email "github-actions[bot]@users.noreply.github.com"
+      git config --local user.name "github-actions[bot]"
+      git add profile/stats.svg profile/top-langs.svg
+      git diff --cached --quiet || git commit -m "Update GitHub statistics"
+      git push
