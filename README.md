@@ -69,15 +69,12 @@
 ---
 
 ###  Featured Projects
-<p align="center">
-  <a href="https://github.com/ismail-chahboune/Pneumoniaclassifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ismail-chahboune&repo=Pneumoniaclassifier&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/ismail-chahboune/MNIST-Digit-Classfier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ismail-chahboune&repo=MNIST-Digit-Classfier&theme=default&hide_border=true" />
-  </a>
-</p>
 
+- 🩺 **[Pneumonia Classifier](https://github.com/ismail-chahboune/Pneumoniaclassifier)**
+  Deep learning model for pneumonia detection from chest X-rays using CNNs.
+
+- 🔢 **[MNIST Digit Classifier](https://github.com/ismail-chahboune/MNIST-Digit-Classfier)**
+  Convolutional neural network for handwritten digit recognition.
 ---
 
 ###  GitHub Stats
