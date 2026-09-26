@@ -46,7 +46,8 @@
 
 **Data Engineering & Big Data**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=hadoop,kafka" height="40"/>
+<a href="https://hadoop.apache.org/" target="_blank"><img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="40" height="40"/></a>
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
 </p>
 
 **Databases**
