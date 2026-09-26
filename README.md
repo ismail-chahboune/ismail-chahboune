@@ -85,7 +85,7 @@
 
 <p align="center"> <img src="./profile/top-langs.svg" width="48%" /> </p>
 
-### 💼 What I Work With Daily
+###  What I Frequently Work With
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🎯 Currently Focused On
+###  Currently Focused On
 - Building production-grade ML/DL pipelines from raw data to deployment
 - Deepening expertise in cloud data platforms (Azure, Databricks) and MLOps
 - Contributing to open, well-documented, reproducible data projects
